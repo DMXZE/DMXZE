@@ -22,9 +22,6 @@ Ethical USB payload simulator demonstrating HID-style attacks in a safe environm
 ### 🕵️ Social Engineering Toolkit Lite  
 Fake phishing sites for awareness training and social engineering education.
 
-### 📡 LAN Recon Bot  
-Python-based internal network mapper with JSON/HTML reporting.
-
 ---
 
 ## 💻 Tech Stack & Tools
@@ -39,7 +36,7 @@ Python-based internal network mapper with JSON/HTML reporting.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMXZEE&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMXZE&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMXZE&layout=compact&theme=radical)
 
 ---
