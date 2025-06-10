@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I’m [Your Name] 👋</h1>
+<h1 align="center">Hey, I’m Donnacha 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&lines=Cybersecurity+Apprentice;Python+Builder;Ethical+Hacker+in+Training" alt="Typing SVG" />
